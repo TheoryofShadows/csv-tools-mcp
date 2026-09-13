@@ -1,0 +1,5 @@
+id,name,email,age
+1,Ada,ada@example.com,36
+2,Bob,bob@example.com,42
+3,Ada,ada@example.com,36
+4,Bad,not-an-email,x
